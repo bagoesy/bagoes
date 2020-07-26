@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "link": "artikel/1",
+        "img": "/horror2.jpg",
+        "judul": "Another Life",
+        "genre": "Fantasy, Horror",
+        "like": "❤ 109 M"
+    },
+    {
+        "id":2,
+        "link": "artikel/2",
+        "img": "/comedy2.jpg",
+        "judul": "Brainless",
+        "genre": "Comedy",
+        "like": "❤ 626 M"
+    },
+    {
+        "id":3,
+        "link": "artikel/3",
+        "img": "/romance.jpg",
+        "judul": "Crazy Love",
+        "genre": "Comedy, Romance",
+        "like": "❤ 290 M"
+    },
+    {
+        "id":4,
+        "link": "artikel/4",
+        "img": "/horror.jpg",
+        "judul": "Death Bringer",
+        "genre": "Action, Horror",
+        "like": "❤ 364 M"
+    },
+    {
+        "id":5,
+        "link": "artikel/5",
+        "img": "/comedy.jpg",
+        "judul": "God of The God",
+        "genre": "Action, Fantasy, Comedy",
+        "like": "❤ 745 M"
+    },
+    {
+        "id":6,
+        "link": "artikel/6",
+        "img": "/fantasy.jpg",
+        "judul": "Noobest Hunter",
+        "genre": "Action, Comedy",
+        "like": "❤ 589 M"
+    },
+    {
+        "id":7,
+        "link": "artikel/7",
+        "img": "/action.jpg",
+        "judul": "Tower of God",
+        "genre": "Action, Fantasy",
+        "like": "❤ 998 M"
+    },
+    {
+        "id":8,
+        "link": "artikel/8",
+        "img": "/romance2.jpg",
+        "judul": "What is Love?",
+        "genre": "Romance",
+        "like": "❤ 912 M"
+    }
+    ]
