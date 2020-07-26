@@ -1,0 +1,30 @@
+[
+{
+    "link": "/artikel/2",
+    "img": "/comedy2.jpg",
+    "judul": "Brainless",
+    "genre": "Comedy",
+    "like": "❤ 626 M"
+},
+{
+    "link": "/artikel/3",
+    "img": "/romance.jpg",
+    "judul": "Crazy Love",
+    "genre": "Comedy, Romance",
+    "like": "❤ 290 M"
+},
+{
+    "link": "/artikel/5",
+    "img": "/comedy.jpg",
+    "judul": "God of The God",
+    "genre": "Action, Fantasy, Comedy",
+    "like": "❤ 745 M"
+},
+{
+    "link": "/artikel/6",
+    "img": "/fantasy.jpg",
+    "judul": "Noobest Hunter",
+    "genre": "Action, Comedy",
+    "like": "❤ 589 M"
+}
+]

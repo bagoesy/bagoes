@@ -1,0 +1,30 @@
+[
+{
+    "link": "/artikel/4",
+    "img": "/horror.jpg",
+    "judul": "Death Bringer",
+    "genre": "Action, Horror",
+    "like": "❤ 364 M"
+},
+{
+    "link": "/artikel/5",
+    "img": "/comedy.jpg",
+    "judul": "God of The God",
+    "genre": "Action, Fantasy, Comedy",
+    "like": "❤ 745 M"
+},
+{
+    "link": "/artikel/6",
+    "img": "/fantasy.jpg",
+    "judul": "Noobest Hunter",
+    "genre": "Action, Comedy",
+    "like": "❤ 589 M"
+},
+{
+    "link": "/artikel/7",
+    "img": "/action.jpg",
+    "judul": "Tower of God",
+    "genre": "Action, Fantasy",
+    "like": "❤ 998 M"
+}
+]

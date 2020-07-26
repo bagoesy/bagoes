@@ -1,0 +1,135 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  background-color: #24252A;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  position: fixed;
+}
+
+::-webkit-scrollbar-track {
+  border: 7px solid #24252A;
+  box-shadow: inset 0 0 2.5px 2px rgba(0,0,0,0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #E1306C;
+}
+
+li, a, button {
+  font-family: 'comic sans ms';
+  font-weight: 500;
+  font-size: 16px;
+  color: #EDf0f1;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-image: linear-gradient(#f1aac2, #e98cab);
+}
+
+header .logo {
+  cursor: pointer;
+}
+
+header .nav_links {
+  list-style: none;
+}
+
+header .nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+header .nav_links li a {
+  transition: all 0.3s ease 0s;
+}
+
+header .nav_links li a:hover {
+  color: #24252A;
+}
+
+button {
+  padding: 9px 25px;
+  background-color: rgb(253,36,76,1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+  background-color: #F56040;
+}
+
+main, section, div {
+  display: block;
+}
+
+.box {
+  float: left;
+  width: 25%;
+  padding: 1em;
+  height: 16em;
+}
+
+.box-item {
+  background-color: rgba(255, 239, 219,0.5);
+  border: solid;
+  height: 100%;
+  padding-bottom: 1em;
+  text-align: center;
+  color: #EDf0f1;
+}
+
+.cover {
+  height: 8em;
+  width: 100%;
+}
+
+footer {
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(#f1aac2, #e98cab);
+  color: white;
+  text-align: center;
+}
+
+.coverpage {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  background-color: #EDf0f1;
+  color: #24252A;
+  height: 590px;
+}
+
+.coverpage a {
+  padding: 0px 20px;
+  background-color: #e98cab;
+  color: #24252A;
+}
+
+.coverpage a:hover {
+  background-color: #f1aac2;
+}
+
+.page {
+  margin: auto;
+  color: #EDf0f1;
+  text-align: center;
+}
